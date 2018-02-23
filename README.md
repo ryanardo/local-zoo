@@ -1,6 +1,6 @@
 # [Zoo](https://github.com/ryanglenferris/zoo.git)
 
-#### Project for Epicodus focusing on Angular2. This application will use the [Zoo](https://github.com/ryanglenferris/zoo.git) API to help users find doctors in their area who can treat their medical issue.
+#### Project for Epicodus focusing on Angular2.
 
 By **Ryan G Ferris**
 
