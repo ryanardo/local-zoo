@@ -1,6 +1,6 @@
 # [Zoo](https://github.com/ryanglenferris/zoo.git)
 
-#### Project for Epicodus focusing on Angular2. This application will use the [Zoo](https://github.com/ryanglenferris/zoo.git) API to help users find doctors in their area who can treat their medical issue.
+#### Project for Epicodus focusing on Angular2.
 
 By **Ryan G Ferris**
 
@@ -27,7 +27,6 @@ By **Ryan G Ferris**
   * Caretakers
 
 ## SETUP/INSTALLATION REQUIREMENTS
-
 ### NPM Packages
 ```
 npm install
@@ -44,6 +43,12 @@ gulp build; gulp serve
 ### Testing
 ```
 npm test
+```
+
+#### Quick run/setup
+If you want to just get the project to run, try this command!
+```
+npm install; bower install; gulp build; gulp serve
 ```
 ## KNOWN BUGS
 
