@@ -1,0 +1,23 @@
+{
+  "name": "zoo",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/ryanglenferris/zoo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "resolutions": {
+    "bootstrap": "3.3.7"
+  },
+  "authors": [
+    "Ryan G Ferris <ryanglenferris@gmail.com>"
+  ]
+}
