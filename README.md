@@ -27,7 +27,6 @@ By **Ryan G Ferris**
   * Caretakers
 
 ## SETUP/INSTALLATION REQUIREMENTS
-
 ### NPM Packages
 ```
 npm install
@@ -44,6 +43,12 @@ gulp build; gulp serve
 ### Testing
 ```
 npm test
+```
+
+#### Quick run/setup
+If you want to just get the project to run, try this command!
+```
+npm install; bower install; gulp build; gulp serve
 ```
 ## KNOWN BUGS
 
