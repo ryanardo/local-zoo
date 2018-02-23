@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log
+bower_components/
+app/*.js
+app/*.js.map
+.DS_Store
+build/
+*.model.js
+*.component.js
+*.module.js
+*.pipe.js
+*.model.js.map
+*.component.js.map
+*.module.js.map
+*.pipe.js.map
